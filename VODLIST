@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,tvg-ID="" tvg-name="Everest - Ein Yeti will hoch hinaus - 2019" tvg-logo="https://www.radiosaw.de/sites/default/files/styles/300px-breit-skaliert/public/images%20%281%29_3.jpg?itok=vwgEDfX5"
+#EXTINF:-1 tvg-ID="" tvg-name="Everest - Ein Yeti will hoch hinaus - 2019" tvg-logo="https://dx35vtwkllhj9.cloudfront.net/universalstudios/abominable/images/regions/at/onesheet.jpg" group-title="VOD TV ",Everest - Ein Yeti will hoch hinaus - 2019
 http://server.hdiptv.world:8000/movie/vipdigitaltvportal/IyIlhJ3zWr/11806.mp4
 #EXTINF:-1,Der Distelfink (2019)
 http://server.hdiptv.world:8000/movie/vipdigitaltvportal/IyIlhJ3zWr/5157.mp4
