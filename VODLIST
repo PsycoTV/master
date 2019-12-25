@@ -1,6 +1,18 @@
 #EXTM3U
-#EXTINF:-1,*****GERMANY CINEMA 2019*****
-http://server.hdiptv.world:8000/movie/vipdigitaltvportal/IyIlhJ3zWr/4972.mp4
+#EXTINF:-1,Everest - Ein Yeti will hoch hinaus - 2019
+http://server.hdiptv.world:8000/movie/vipdigitaltvportal/IyIlhJ3zWr/11806.mp4
+#EXTINF:-1,Der Distelfink (2019)
+http://server.hdiptv.world:8000/movie/vipdigitaltvportal/IyIlhJ3zWr/5157.mp4
+#EXTINF:-1,Gemini Man (2019)
+http://server.hdiptv.world:8000/movie/vipdigitaltvportal/IyIlhJ3zWr/5145.mp4
+#EXTINF:-1,Angel Has Fallen (2019)
+http://server.hdiptv.world:8000/movie/vipdigitaltvportal/IyIlhJ3zWr/5256.mp4
+#EXTINF:-1,Shazam! (2019)
+http://server.hdiptv.world:8000/movie/vipdigitaltvportal/IyIlhJ3zWr/5266.mkv
+#EXTINF:-1,Anna - 2019
+http://server.hdiptv.world:8000/movie/vipdigitaltvportal/IyIlhJ3zWr/5147.mp4
+#EXTINF:-1,Enzo und die wundersame Welt der Menschen (2019)
+http://server.hdiptv.world:8000/movie/vipdigitaltvportal/IyIlhJ3zWr/5140.mp4
 #EXTINF:-1,The Aeronauts - 2019
 http://server.hdiptv.world:8000/movie/vipdigitaltvportal/IyIlhJ3zWr/15940.mp4
 #EXTINF:-1,6 Underground - 2019
@@ -35,20 +47,6 @@ http://server.hdiptv.world:8000/movie/vipdigitaltvportal/IyIlhJ3zWr/14557.mp4
 http://server.hdiptv.world:8000/movie/vipdigitaltvportal/IyIlhJ3zWr/11804.mp4
 #EXTINF:-1,Darlin' - 2019
 http://server.hdiptv.world:8000/movie/vipdigitaltvportal/IyIlhJ3zWr/11805.mp4
-#EXTINF:-1,Everest - Ein Yeti will hoch hinaus - 2019
-http://server.hdiptv.world:8000/movie/vipdigitaltvportal/IyIlhJ3zWr/11806.mp4
-#EXTINF:-1,Der Distelfink (2019)
-http://server.hdiptv.world:8000/movie/vipdigitaltvportal/IyIlhJ3zWr/5157.mp4
-#EXTINF:-1,Gemini Man (2019)
-http://server.hdiptv.world:8000/movie/vipdigitaltvportal/IyIlhJ3zWr/5145.mp4
-#EXTINF:-1,Angel Has Fallen (2019)
-http://server.hdiptv.world:8000/movie/vipdigitaltvportal/IyIlhJ3zWr/5256.mp4
-#EXTINF:-1,Shazam! (2019)
-http://server.hdiptv.world:8000/movie/vipdigitaltvportal/IyIlhJ3zWr/5266.mkv
-#EXTINF:-1,Anna - 2019
-http://server.hdiptv.world:8000/movie/vipdigitaltvportal/IyIlhJ3zWr/5147.mp4
-#EXTINF:-1,Enzo und die wundersame Welt der Menschen (2019)
-http://server.hdiptv.world:8000/movie/vipdigitaltvportal/IyIlhJ3zWr/5140.mp4
 #EXTINF:-1,Dora und die goldene Stadt (2019)
 http://server.hdiptv.world:8000/movie/vipdigitaltvportal/IyIlhJ3zWr/5141.mp4
 #EXTINF:-1,Annabelle 3 (2019)
