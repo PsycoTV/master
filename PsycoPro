@@ -4,7 +4,7 @@ m
 <title>Pro TV<title>
 <link>http://ignorame<link>
 <thumbnail>https://ibb.co/T4ggBxP</thumbnail>
-<fanart>https://ibb.co/T4ggBxP</fanart>
+<fanart></fanart>
 <externallink>https://raw.githubusercontent.com/Ghosties-Kodi/master/master/psyco.m3u</externallink>
 <info></info>
 </item>
@@ -14,7 +14,7 @@ m
 <link>http://ignorame<link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink></externallink>
+<externallink>http://ignorame</externallink>
 <info></info>
 </item>
 
@@ -41,7 +41,7 @@ m
 <link>http://ignorame<link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink></externallink>
+<externallink>http://ignorame</externallink>
 <info></info>
 </item>
 
@@ -50,7 +50,7 @@ m
 <link>http://ignorame<link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink></externallink>
+<externallink>http://ignorame</externallink>
 <info></info>
 </item>
 
